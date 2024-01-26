@@ -2,6 +2,8 @@
 
 # Welcome to Mobile Legal Solutions
 
+![Logo](/assets/Transparent_Logo.png)
+
 We are your go-to solution for comprehensive mobile notary, loan signing, fingerprinting, and passport photography services in Contra Costa County. Leveraging technology to enhance our services, we specialize in building custom solutions for mobile professionals.
 
 ## Our Services
